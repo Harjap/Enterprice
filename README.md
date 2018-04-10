@@ -1,0 +1,2 @@
+<h1>COMP2007 My Game Store</h1>
+<p>This is an application based on Microsoft MVC Music Store.Designed for .ASP.net and in this application we have used User Authentication  and set up Social logins such as Facebook, Google, Microsoft, Twitter</p>
